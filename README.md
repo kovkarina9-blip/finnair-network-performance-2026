@@ -2,9 +2,9 @@
 
 A one-page Power BI analysis of Finnair's public monthly traffic data. It looks at what happened to capacity, load factor and revenue per RPK after Finnair suspended its flights to Doha and Dubai on 28 February 2026.
 
-![Dashboard preview]()
+![Dashboard preview](Dashboard_preview.png)
 
-**Full report:** [Finnair_Network_Performance.pdf]()
+**Full report:** [Finnair_Network_Performance.pdf](Finnair_Network_Performance.pdf)
 
 ## What the analysis shows
 
