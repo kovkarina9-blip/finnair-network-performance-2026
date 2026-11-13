@@ -24,9 +24,6 @@ In my bachelor's thesis I used Monte Carlo simulation and Simulation Decompositi
 - **Revenue decomposition.** Finnair defines RASK as revenue per available seat kilometre, so implied revenue = ASK × RASK. Revenue growth is split into capacity (ASK), load factor (RPK / ASK) and revenue per RPK. The split uses log changes, so the three effects add up exactly to the total.
 - **Load factor** is always computed as total RPK divided by total ASK, so a small region carries its true weight.
 - **Limitations.** ASK and RPK use great-circle distances, so longer routings around closed airspace are missing from both. RASK covers all revenue, so revenue per RPK is a proxy for yield. July 2026 RASK is unavailable. August 2019 passengers are derived from the August 2020 release.
-## Files
-
-- `Finnair_Network_Performance.pdf`: the report
 
 ## How it was built
 
